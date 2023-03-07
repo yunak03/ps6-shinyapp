@@ -1,1 +1,2 @@
-# ps6-shinyapp
+# User Documentation
+## ps6-shinyapp
